@@ -11,8 +11,10 @@ I have been building web applications since 2007 and haven't stopped ever since.
 These days my focus it to create  Web Applications  using ReactJs, NodeJs & GraphQL
 Always love to learn new things and find a way to improve myself.
    
-{:.related-posts.faded}   
-`Always believe technology can bring the freedom in life in many ways. 
-Helping people to achieve their goals using technology.`
+{:.related-posts.faded}  
+~~~ 
+Always believe technology can bring the freedom in life in many ways. 
+Helping people to achieve their goals using technology.
+~~~
 
 
