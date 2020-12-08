@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Waruni Wickramanayake"
-  label: "Full Stack Developer"
+  label: "Senior Full Stack Developer"
   picture: "http://waruniwickramanayake.com/assets/img/Waruni.jpg"
   email: "wwaruni@gmail.com"
   phone: "0416 040 030"
@@ -17,7 +17,7 @@ basics:
     experience. I’m a continuous learner. 
 
   location:
-    address: ""
+    address: "Officer"
     postalCode: "3809"
     city: "Melbourne"
     countryCode: "AUS"
@@ -118,16 +118,20 @@ skills:
       - "NodeJs"
       - "PHP"
       - "Ruby On Rails"
-      - "HTML"
-      - "CSS"
+      - "HTML5"
+      - "CSS3"
       - "Javascript"
   - name: "Databases"
-    level: "Master"
+    level: "2/3"
     keywords:
       - "Mysql"
       - "MongoDb"
+  - name: "Queue"
+    level: "3/3"
+    keywords:
+      - "RabbitMq"
   - name: "Testing"
-    level: "Master"
+    level: "2/3"
     keywords:
       - "PHPUnit"
       - "Log4r"
