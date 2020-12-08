@@ -2,102 +2,148 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://placehold.it/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Waruni Wickramanayake"
+  label: "Full Stack Developer"
+  picture: "http://waruniwickramanayake.com/assets/img/Waruni.jpg"
+  email: "wwaruni@gmail.com"
+  phone: "0416 040 030"
+  website: "http://waruniwickramanayake.com"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    A Web Development professional with more than 10 years’ experience in the design, programming, delivery and 
+    implementation of solutions and new products, functionality, customisations and optimisations for clients 
+    in the Banking, Telecommunication, Media, HR, Employment, Education industries.
+    Passionate about development, I enjoy using NodeJs, PHP & ReactJs to develop web applications. 
+    I am a proven performer who is prepared to go the extra mile, eager to learn and confident in my ability and 
+    experience. I’m a continuous learner. 
+
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: ""
+    postalCode: "3809"
+    city: "Melbourne"
+    countryCode: "AUS"
+    region: "VIC"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
+      username: "WaruniWick"
       url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: "Waruni Wickramanayake"
       url: ""
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Payright"
+    position: "Senior Software Engineer"
+    website: "https://www.payright.com.au/"
+    startDate: "2019-07-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and 
+      for making things more affordable to consumers, by spreading the cost of purchases over time.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "Built a customer portal both backend and frontend"
+      - "Adding functionality & bug fixes to the existing merchant portal"
+      - "Enhancements to the existing Ecommerce modules"
+
+  - company: "Catch Group Pvt Ltd"
+    position: "Senior Software Engineer"
+    website: "https://www.catch.com.au"
+    startDate: "2018-06-01"
+    endDate: "2019-07-01"
+    summary: >
+      The Catch Group provides online shopping stores and operates a customized delivery platform. It’s an online retailer.
+    highlights:
+      - "Maintain and add new features to existing back end systems"
+      - "Create maintainable APIs"
+      - "Support and help team members when needed"  
+
+  - company: "TIC Group Pvt Ltd – Solvup"
+    position: "Senior Software Engineer"
+    website: "https://ticgroup.com.au/"
+    startDate: "2015-06-01"
+    endDate: "2018-06-01"
+    summary: >
+      TIC Group has been providing services to the retail industry for over 25 years. 
+      Solvup is one of their product. Solvup is a platform which handles returned products at store counter, online and phone. Solvup provides services to vendors and repair agents to manage those returns easily and manage troubleshooting.
+    highlights:
+      - "Introduced event driven architecture and carried out the core development for the communication pack module by implementing 
+        front-end and back-end functionalities"
+      - "Provide support to Customer handling Team by fixing bugs and adding admin features to the legacy system"
+      - "Improve the performance of the legacy system"
+      - "Introduced SELENIUM testing tool and automated major sections in the case creation process" 
+      - "Knowledge sharing with team members by doing presentations"
+      - "Held meetings with Account Managers to gather requirements"
+      - "Extensive research carried out to identify suitable technologies"
+      - "SDK development"
+
+  - company: "Peazie Social Media"
+    position: "PHP Developer"
+    website: "https://peazie.com/"
+    startDate: "2012-06-01"
+    endDate: "2015-06-01"
+    summary: >
+     Peazie is a platform which can be used to create Social Media Campaigns that delivers on business objectives; database growth, customer 
+     acquisition, and sales. Peazie 2.0 platform transforms the smallest marketing team into the most empowered digital 
+     resource. Peazie’s all-in one platform saves marketing teams & agencies up to 78% of their campaign investments including 
+     development, design, production, insights and analytics. I joined the Peazie at its early stage which gave me an opportunity to work on most of the sections in the platform
+    highlights:
+      - "Implementation of Admin area funtionalities: Client management, campaigns management"
+      - "Restful API implementation"
+      - "Built offline services which use to generate reports."
+      - "Built a reporting section: which gives proper insights about the campaign performance, inbound traffic details, outbound traffic details , unique entry details , location details , browser and operating system details" 
+      - "Bug fixes on campaign builder."
+
+      
+
 volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+  - organization: "AI Cubed Academy"
+    position: "Teaching Assistant"
+    website: "http://www.ai3.academy"
+    startDate: "2019-08-01"
+    endDate: "2019-10-01"
+    summary: "AI Cubed helps children to explore, discover and prepare for the age of Artificial Intelligence"
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Helping kids to learn Robotic Programming"
 education:
-  - institution: "University of Oklahoma"
+  - institution: "Sri Lanka Institute of Information Technology"
     area: "Information Technology"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+    startDate: "2004-01-01"
+    endDate: "2008-12-31"
+    gpa: "3.6"
+
 skills:
   - name: "Web Development"
     level: "Master"
     keywords:
+      - "ReactJs"
+      - "NodeJs"
+      - "PHP"
+      - "Ruby On Rails"
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name: "Compression"
+  - name: "Databases"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
+      - "Mysql"
+      - "MongoDb"
+  - name: "Testing"
+    level: "Master"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "PHPUnit"
+      - "Log4r"
+      - "Cucumber"
+  - name: "PHP Frameworks"
+    level: "Master"
+    keywords:
+      - "Symfony 3"
+      - "Laravel"
+      - "CakePHP"
+      - "Zend"
+      - "Kohana"
+
+interests:
+  - name: "Swimming & Batminton"
+    keywords:
+      - ""
+      - ""
+
