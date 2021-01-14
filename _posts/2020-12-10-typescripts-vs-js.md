@@ -3,7 +3,7 @@ layout: post
 title: Typescript vs Javascript. What's the difference
 description: >
   Comparision between Typescripts and Javascript
-image: /assets/img/blog/js-ts.jpg
+image: /assets/img/blog/blog01.jpg
 sitemap: false
 ---
 
