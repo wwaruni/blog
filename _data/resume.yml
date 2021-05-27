@@ -30,6 +30,23 @@ basics:
       username: "Waruni Wickramanayake"
       url: ""
 work:
+
+  - company: "Payright"
+    position: "Lead Developer"
+    website: "https://www.payright.com.au/"
+    startDate: "2021-02-01"
+    endDate: ""
+    summary: >
+      Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and 
+      for making things more affordable to consumers, by spreading the cost of purchases over time.
+      Technical stack at Payright: ReactJS, NodeJs, Dynamodb, Mysql, PHP , AWS (Lambda Function, Elastic Service Containers, S3, EC2, RDS). 
+    highlights:
+      - "Lead application architecture design, development, troubleshooting and performance tuning"
+      - "Set and maintain quality of deliverable standards for development team as whole"
+      - "Respond to issues raised by IT team & act as primary contact for issues related to in-house applications"
+      - "Lead and mentor team of developers including overseeing distribution of workload"
+      - "Manage product delivery life cycle from scope to release"
+
   - company: "Payright"
     position: "Senior Software Engineer"
     website: "https://www.payright.com.au/"
@@ -121,11 +138,13 @@ skills:
       - "HTML5"
       - "CSS3"
       - "Javascript"
+      - "AWS"
   - name: "Databases"
     level: "2/3"
     keywords:
       - "Mysql"
       - "MongoDb"
+      - "DynamoDb"
   - name: "Queue"
     level: "3/3"
     keywords:
