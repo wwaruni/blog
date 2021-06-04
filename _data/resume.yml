@@ -127,7 +127,7 @@ education:
     gpa: "3.6"
 
 skills:
-  - name: "Web Development"
+  - name: "Full stack Development"
     level: "Master"
     keywords:
       - "ReactJs"
@@ -138,6 +138,7 @@ skills:
       - "CSS3"
       - "Javascript"
       - "AWS"
+      - "Lambda functions"
   - name: "Databases"
     level: "2/3"
     keywords:
