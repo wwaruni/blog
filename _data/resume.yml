@@ -53,11 +53,10 @@ work:
     startDate: "2019-07-01"
     endDate: ""
     summary: >
-      Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and 
-      for making things more affordable to consumers, by spreading the cost of purchases over time.
+     Joined the Payright as a Senior Software Engineer
     highlights:
-      - "Built a customer portal both backend and frontend"
-      - "Adding functionality & bug fixes to the existing merchant portal"
+      - "Led application architecture design, development for customer portal"
+      - "Adding functionality & bug fixes to the existing merchant/checkout portals"
       - "Enhancements to the existing Ecommerce modules"
 
   - company: "Catch Group Pvt Ltd"
@@ -68,9 +67,9 @@ work:
     summary: >
       The Catch Group provides online shopping stores and operates a customized delivery platform. It’s an online retailer.
     highlights:
-      - "Maintain and add new features to existing back end systems"
-      - "Create maintainable APIs"
-      - "Support and help team members when needed"  
+      - "Maintain & add new features to existing backend systems"
+      - "Created maintainable APIs"
+      - "Support & help team members when needed"  
 
   - company: "TIC Group Pvt Ltd – Solvup"
     position: "Senior Software Engineer"
