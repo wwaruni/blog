@@ -32,10 +32,10 @@ basics:
 work:
 
   - company: "Payright"
-    position: "Lead Developer"
+    position: "Senior Software Engineer"
     website: "https://www.payright.com.au/"
     startDate: "2019-07-01"
-    endDate: "Senior Software Engineer"
+    endDate: ""
     summary: >
       Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and 
       for making things more affordable to consumers, by spreading the cost of purchases over time.
