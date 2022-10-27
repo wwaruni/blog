@@ -9,10 +9,10 @@ basics:
   phone: "0416 040 030"
   website: "http://waruniwickramanayake.com"
   summary: >
-    A Web Development professional with more than 10 years’ experience in the design, programming, delivery and 
+    A Web Development professional with more than 10 years experience in the design, programming, delivery and 
     implementation of solutions and new products, functionality, customisations and optimisations for clients 
     in the Banking, Telecommunication, Media, HR, Employment, Education industries.
-    Passionate about development, I enjoy using NodeJs, PHP & ReactJs to develop web applications. 
+    Passionate about improving customer experience through technologies, I enjoy using NodeJs, ReactJs to develop web applications. 
     I am a proven performer who is prepared to go the extra mile, eager to learn and confident in my ability and 
     experience. I’m a continuous learner. 
 
@@ -30,11 +30,23 @@ basics:
       username: "Waruni Wickramanayake"
       url: ""
 work:
+  - company: "Nutrien Ag Solutions"
+    position: "Senior Software Engineer"
+    website: "https://www.nutrienagsolutions.com.au/"
+    startDate: "2021-08-23"
+    endDate: ""
+    summary: >
+      Nutrien Ag Solutions Australia is an integral part of the Australian agricultural industry operating for more than 150 years.
+    highlights:
+      - "Work on frontend development"
+      - "Create APIS to support new features"
+      - "Create Hasura mutations"
+
   - company: "Payright"
     position: "Senior Software Engineer"
     website: "https://www.payright.com.au/"
     startDate: "2019-07-01"
-    endDate: ""
+    endDate: "2021-08-20"
     summary: >
       Payright is an Australian payment plan provider developed for merchants to accelerate return-on-effort and 
       for making things more affordable to consumers, by spreading the cost of purchases over time.
@@ -126,15 +138,17 @@ skills:
     keywords:
       - "Mysql"
       - "MongoDb"
+      - "Postgres"
   - name: "Queue"
     level: "3/3"
     keywords:
       - "RabbitMq"
+      - "Kafka"
   - name: "Testing"
     level: "2/3"
     keywords:
       - "PHPUnit"
-      - "Log4r"
+      - "Jest"
       - "Cucumber"
   - name: "PHP Frameworks"
     level: "Master"
