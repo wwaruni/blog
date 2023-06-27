@@ -4,7 +4,7 @@
 basics:
   name: "Waruni Wickramanayake"
   label: "Senior Full Stack Developer"
-  picture: "http://waruniwickramanayake.com/assets/img/Waruni.jpg"
+  picture: "http://waruni.me/assets/img/Waruni.jpg"
   email: "wwaruni@gmail.com"
   phone: "0416 040 030"
   website: "http://waruni.me"
@@ -12,9 +12,9 @@ basics:
     A Web Development professional with more than 10 years experience in the design, programming, delivery and 
     implementation of solutions and new products, functionality, customisations and optimisations for clients 
     in the Banking, Telecommunication, Media, HR, Employment, Education industries.
-    Passionate about improving customer experience through technologies, I enjoy using NodeJs, ReactJs to develop web applications. 
-    I am a proven performer who is prepared to go the extra mile, eager to learn and confident in my ability and 
-    experience. I’m a continuous learner. 
+    I am an established achiever who willingly goes above and beyond, driven by a thirst for knowledge and unwavering confidence in 
+    my skills and expertise. I have a genuine passion for continuous learning, always seeking opportunities to expand my horizons and 
+    stay at the forefront of advancements in my field.
 
   location:
     address: "Officer"
@@ -29,6 +29,7 @@ basics:
     - network: "LinkedIn"
       username: "Waruni Wickramanayake"
       url: ""
+
 work:
   - company: "Nutrien Ag Solutions"
     position: "Senior Software Engineer"
@@ -38,9 +39,9 @@ work:
     summary: >
       Nutrien Ag Solutions Australia is an integral part of the Australian agricultural industry operating for more than 150 years.
     highlights:
-      - "Work on frontend development"
-      - "Create APIS to support new features"
-      - "Create Hasura mutations"
+      - "Owns the responsibility of the Cybersecurity guild"
+      - "Frontend development using ReactJS"
+      - "Restful API implementation"
 
   - company: "Payright"
     position: "Senior Software Engineer"
@@ -130,39 +131,40 @@ skills:
     keywords:
       - "ReactJs"
       - "NodeJs"
-      - "PHP"
-      - "Ruby On Rails"
+      - "Javascript"
+      - "GraphQL API"
       - "HTML5"
       - "CSS3"
-      - "Javascript"
-      - "AWS"
+  - name: "DevOps"
+    level: "2/3"
+    keywords:
+      - "Docker"
+      - "kubernetes"
+      - "AWS(RDS, SQS, SNS)"
       - "Lambda functions"
+      - "BuildKite"
+      - "DataDog"
+
   - name: "Databases"
     level: "2/3"
     keywords:
+      - "Postgres"
       - "Mysql"
+      - "Redis"
       - "MongoDb"
       - "DynamoDb"
-      - "Postgres"
   - name: "Queue"
     level: "3/3"
     keywords:
-      - "RabbitMq"
       - "Kafka"
+      - "SQS"
+      - "RabbitMq"
   - name: "Testing"
-    level: "2/3"
+    level: "3/3"
     keywords:
-      - "PHPUnit"
       - "Jest"
+      - "PHPUnit"
       - "Cucumber"
-  - name: "PHP Frameworks"
-    level: "Master"
-    keywords:
-      - "Symfony 3"
-      - "Laravel"
-      - "CakePHP"
-      - "Zend"
-      - "Kohana"
 
 interests:
   - name: "Swimming & Batminton"
