@@ -12,6 +12,7 @@ basics:
     A Web Development professional with more than 10 years experience in the design, programming, delivery and 
     implementation of solutions and new products, functionality, customisations and optimisations for clients 
     in the Banking, Telecommunication, Media, HR, Employment, Education industries.
+    >
     I am an established achiever who willingly goes above and beyond, driven by a thirst for knowledge and unwavering confidence in 
     my skills and expertise. I have a genuine passion for continuous learning, always seeking opportunities to expand my horizons and 
     stay at the forefront of advancements in my field.
@@ -148,6 +149,19 @@ skills:
       - "Lambda functions"
       - "BuildKite"
       - "DataDog"
+  - name: "Testing"
+    level: "3/3"
+    keywords:
+      - "Jest"
+      - "Playwright"
+      - "Cucumber"
+
+  - name: "Queue"
+    level: "3/3"
+    keywords:
+      - "Kafka"
+      - "SQS"
+      - "RabbitMq"
 
   - name: "Databases"
     level: "2/3"
@@ -157,18 +171,6 @@ skills:
       - "Redis"
       - "MongoDb"
       - "DynamoDb"
-  - name: "Queue"
-    level: "3/3"
-    keywords:
-      - "Kafka"
-      - "SQS"
-      - "RabbitMq"
-  - name: "Testing"
-    level: "3/3"
-    keywords:
-      - "Jest"
-      - "PHPUnit"
-      - "Cucumber"
 
 interests:
   - name: "Swimming & Batminton"
