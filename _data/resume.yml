@@ -123,6 +123,11 @@ volunteer:
     highlights:
       - "Helping kids to learn Robotic Programming"
 education:
+  - institution: "University of Adelaide"
+    area: "Cybersecurity"
+    studyType: "Master"
+    startDate: "2023-01-01"
+    endDate: ""
   - institution: "Sri Lanka Institute of Information Technology"
     area: "Information Technology"
     studyType: "Bachelor"
