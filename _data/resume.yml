@@ -38,10 +38,14 @@ work:
     endDate: ""
     summary: >
       Nutrien Ag Solutions Australia is an integral part of the Australian agricultural industry operating for more than 150 years.
+      As a Senior Full Stack Engineer for the Digital Hub team, my primary focus revolves around the customer self-registration process. 
+      Here is a summary of my day-to-day responsibilities. 
     highlights:
+      - "Restful API implementation using NodeJs. (HASURA GraphQL endpoint)"
+      - "Write unit tests"
+      - "Auth0 integration"
+      - "Frontend development using React & React Native"
       - "Owns the responsibility of the Cybersecurity guild"
-      - "Frontend development using ReactJS"
-      - "Restful API implementation"
 
   - company: "Payright"
     position: "Senior Software Engineer"
